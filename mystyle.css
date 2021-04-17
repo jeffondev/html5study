@@ -1,0 +1,22 @@
+body {
+    background-color: yellow;
+}
+h3 {
+    text-align: center;
+color: darkblue;
+}
+span {
+    font-size: 30px;
+}
+.j {
+    color: blue;
+}
+div.a {
+    color: red;
+}
+a:visited {
+    color: brown;
+}
+li:hover {
+    background: chartreuse;
+}
