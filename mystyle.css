@@ -1,5 +1,5 @@
 body {
-    background-color: yellow;
+    background-color: rgb(95, 95, 93);
 }
 h3 {
     text-align: center;
@@ -19,4 +19,17 @@ a:visited {
 }
 li:hover {
     background: chartreuse;
+}
+div.color {
+    color: deepskyblue;
+    background-color: gainsboro;
+    border-color: #7A5B2F;
+}
+div.box{
+    background: yellow;
+    border-style: solid;
+    border-color: peru;
+    margin: 40px;
+    border-width: 30px;
+    padding: 20px;
 }
